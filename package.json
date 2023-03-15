@@ -1,0 +1,23 @@
+{
+  "name": "cookies-challenge",
+  "version": "1.0.0",
+  "description": "API Servers Cookies: Server CFU #2",
+  "main": "(index.js)",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhardin7612/cookies-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhardin7612/cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/jhardin7612/cookies-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
